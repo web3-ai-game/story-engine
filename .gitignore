@@ -1,0 +1,5 @@
+.env
+data/
+*.db
+story-engine
+.DS_Store
